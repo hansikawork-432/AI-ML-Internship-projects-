@@ -55,6 +55,6 @@ The repository consists of five standalone Jupyter Notebooks:
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
